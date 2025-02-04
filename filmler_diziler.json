@@ -1,0 +1,146 @@
+[
+    {
+        "ad": "Kabin Bagajı",
+        "tur": "Film",
+        "durum": "İzlenecek",
+        "yildiz": 4,
+        "tema": "Aksiyon",
+        "aciklama": "Açıklama yok"
+    },
+    {
+        "ad": "Terminatör-Kara Kader",
+        "tur": "Film",
+        "durum": "İzlendi",
+        "yildiz": 4,
+        "tema": "Aksiyon",
+        "aciklama": "Açıklama yok"
+    },
+    {
+        "ad": "Erdal ile Ece 2",
+        "tur": "Film",
+        "durum": "İzlendi",
+        "yildiz": 2,
+        "tema": "Komedi",
+        "aciklama": "Komik Değildi"
+    },
+    {
+        "ad": "Six Triple Eight",
+        "tur": "Film",
+        "durum": "İzlenecek",
+        "yildiz": 4,
+        "tema": "Dram",
+        "aciklama": "2.Dünya Savaşını anlatıyor"
+    },
+    {
+        "ad": "Aile Çıkmazı",
+        "tur": "Film",
+        "durum": "İzlendi",
+        "yildiz": 3,
+        "tema": "Macera",
+        "aciklama": "İdare Eder"
+    },
+    {
+        "ad": "Ferry2",
+        "tur": "Film",
+        "durum": "İzlendi",
+        "yildiz": 5,
+        "tema": "Aksiyon",
+        "aciklama": "Etkileyici"
+    },
+    {
+        "ad": "Mary",
+        "tur": "Film",
+        "durum": "İzlendi",
+        "yildiz": 3,
+        "tema": "Dram",
+        "aciklama": "Açıklama yok"
+    },
+    {
+        "ad": "That Christmas",
+        "tur": "Film",
+        "durum": "İzlendi",
+        "yildiz": 4,
+        "tema": "Macera",
+        "aciklama": "Aile ile izlenebilir"
+    },
+    {
+        "ad": "Cebimdeki Yabancı",
+        "tur": "Film",
+        "durum": "İzlendi",
+        "yildiz": 4,
+        "tema": "Dram",
+        "aciklama": "Türk Yapımı"
+    },
+    {
+        "ad": "Gassal",
+        "tur": "Dizi",
+        "durum": "İzlenecek",
+        "yildiz": 4,
+        "tema": "Komedi",
+        "aciklama": "Türk Yapımı"
+    },
+    {
+        "ad": "Breaking Bad",
+        "tur": "Dizi",
+        "durum": "İzlendi",
+        "yildiz": 5,
+        "tema": "Dram",
+        "aciklama": "İlk bölümleri sıkıcı "
+    },
+    {
+        "ad": "Sherlock Holmes",
+        "tur": "Dizi",
+        "durum": "İzlendi",
+        "yildiz": 5,
+        "tema": "Macera",
+        "aciklama": "Bayağı iyi"
+    },
+    {
+        "ad": "Prens",
+        "tur": "Dizi",
+        "durum": "İzlendi",
+        "yildiz": 4,
+        "tema": "Komedi",
+        "aciklama": "Kaptan Van Dijk"
+    },
+    {
+        "ad": "La Casa de Papel",
+        "tur": "Dizi",
+        "durum": "İzlendi",
+        "yildiz": 4,
+        "tema": "Macera",
+        "aciklama": "Banka Soygunu"
+    },
+    {
+        "ad": "Leyla ile Mecnun",
+        "tur": "Dizi",
+        "durum": "İzlendi",
+        "yildiz": 4,
+        "tema": "Komedi",
+        "aciklama": "İsmail Abi..."
+    },
+    {
+        "ad": "Prison Break",
+        "tur": "Dizi",
+        "durum": "İzlendi",
+        "yildiz": 5,
+        "tema": "Macera",
+        "aciklama": "The Best"
+    },
+    {
+        "ad": "Mahsun J",
+        "tur": "Dizi",
+        "durum": "İzlendi",
+        "yildiz": 5,
+        "tema": "Komedi",
+        "aciklama": ":)"
+    },
+    {
+        "ad": "Squid Game",
+        "tur": "Dizi",
+        "durum": "İzlenecek",
+        "yildiz": 5,
+        "tema": "Aksiyon",
+        "aciklama": "2.Sezon Kötüydü"
+    }
+]
